@@ -1,0 +1,64 @@
+#navbarNav {
+    background-color: #adb5bd;
+    font-size: large;
+}
+
+.header{
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+.menu-bar{
+    padding: 0%;
+}
+.menu-buttons:hover{
+    background-color: #495057; 
+  
+}
+
+.algotron-logo{
+    position: absolute;
+    margin: auto;
+    display: block;
+    height: 120px;
+    width: 120px;
+}
+
+.login-button{
+    text-align: right;
+    margin-right: 4px;
+}
+.hidden{
+    display: none;
+}
+.content-home{
+    width: 75%;
+}
+.footer{
+    border-radius: 10px;
+    background-color: #ced4da;
+   
+}
+.algotron-img2{
+    height: 400px;
+}
+.logo-link{
+    position: absolute;
+    top: 0px;
+    right: 55%;
+}
+.algotron-about-bkg{
+    background-color: #adb5bd;
+}
+.algotron-about-bkg2{
+    background-color: #ced4da;
+}
+
+#prabir-kumar-img{
+    border-radius: 50%;
+    height: 150px;
+}
+.button-msg{
+    display: block;
+    margin: auto;
+}
